@@ -46,6 +46,11 @@ footer {
     bottom: 30px;
     font-size: 12px;
 }
+button {
+    font-size: 2vw;
+    padding: 1rem;
+    border-radius: 10px;
+}
 
 @media (min-width: 1024px){
    h1 {
